@@ -1,0 +1,7 @@
+0 = Helmet
+1 = No-Helmet
+2 - No-Safety-Vest
+3 - Safety-vest
+4 - Mask
+5 - Without-Mask
+6 - Person
